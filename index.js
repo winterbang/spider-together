@@ -1,6 +1,6 @@
 // import './lib/jieban'
-// import './lib/waimaiph'
-import './lib/waimaiph/patch'
+import './lib/waimaiph'
+// import './lib/waimaiph/patch'
 // import show from './lib/waimaiph/detail'
 // console.log('start ...')
 
