@@ -12,7 +12,9 @@
     "async": "^2.2.0",
     "cheerio": "^0.22.0",
     "firebase": "^3.7.4",
+    "log4js": "^1.1.1",
     "qiniu": "^6.1.13",
+    "request": "^2.81.0",
     "superagent": "^3.5.2",
     "wilddog": "^2.5.4"
   },
